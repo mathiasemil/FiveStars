@@ -1,4 +1,4 @@
-![Banner](https://github.com/mathiasemil/FiveStars/assets/45195563/19ac8e79-1c00-4750-a3ff-a596baadebe1)
+![Banner](https://github.com/mathiasemil/FiveStars/assets/45195563/cb7718ac-a8a2-4004-bd8e-b4b710fb2f8b)
 
 Five Stars is a native app for developers to read and reply to App Store reviews on iOS, iPad and macOS.
 
