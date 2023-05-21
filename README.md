@@ -3,8 +3,7 @@
 Five Stars is a native app for developers to read and reply to App Store reviews on iOS, iPad and macOS.
 
 ## TestFlight
-Five Stars is available in Beta on TestFlight.
-https://testflight.apple.com/join/tiCKUbz5
+Five Stars is available in Beta on [TestFlight](https://testflight.apple.com/join/tiCKUbz5).
 
 ## Features
 * Native app for iPhone, iPad and macOS.
@@ -25,3 +24,5 @@ https://testflight.apple.com/join/tiCKUbz5
 ## Have a problem?
 * Open Github issue
 * support@getfivestars.app
+
+Feel free to reach out above or on [Mastodon](https://mas.to/@mathiasemil) with feedback ❤️
